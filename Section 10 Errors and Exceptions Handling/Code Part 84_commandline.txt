@@ -1,0 +1,2 @@
+cd
+pylint simple2.py -r y
